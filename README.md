@@ -78,18 +78,22 @@
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basduy05&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+## 📈 GitHub Analytics
+
+<br> <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="48%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="48%" />
+
+<br><br> <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats" />
+  &nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
+  &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages" />
+</p>
+
+<br><br> <div align="center">
+  <a href="https://github.com/basduy05">
+    <img src="https://komarev.com/ghpvc/?username=basduy05&label=Profile%20Views&color=0e75b6&style=flat-square" alt="basduy05 profile views" />
+  </a>
 </div>
 
 <br>
