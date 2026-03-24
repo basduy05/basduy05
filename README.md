@@ -78,10 +78,8 @@
 
 ## 📈 GitHub Analytics
 
-## 📈 GitHub Analytics
-
 <br> <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="240" alt="Dev Quote" />
 </div>
 
 <br><br> <p align="center">
