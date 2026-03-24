@@ -82,7 +82,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="140" alt="Dev Quote" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=tokyonight&hide_border=true" height="140" alt="Streak Stats" />
 </div>
 
 <br>
