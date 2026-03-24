@@ -80,28 +80,31 @@
 
 <br>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="165" alt="Dev Quote" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quote" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Top Languages" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/basduy05">
-    <img src="https://komarev.com/ghpvc/?username=basduy05&label=Profile%20Views&color=0e75b6&style=flat-square" alt="basduy05 profile views" />
-  </a>
-</div>
-<br>
-
-<br><br> <div align="center">
   <a href="https://github.com/basduy05">
     <img src="https://komarev.com/ghpvc/?username=basduy05&label=Profile%20Views&color=0e75b6&style=flat-square" alt="basduy05 profile views" />
   </a>
