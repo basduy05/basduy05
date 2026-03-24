@@ -27,12 +27,12 @@
         <li>🔭 <strong>Studying:</strong> University of Transport Technology</li>
         <li>🌱 <strong>Currently learning:</strong> <a href="https://isocpp.org/">C++</a> & <a href="https://www.java.com/">Java</a></li>
         <li>🎯 <strong>Goals:</strong> Master backend systems and cloud architecture</li>
-        <li>⚡ <strong>Fun fact:</strong> <i>[Chèn một điều thú vị về bạn vào đây...]</i></li>
+        <li>⚡ <strong>Fun fact:</strong> <i>[...]</i></li>
         <li>💬 <strong>Ask me about:</strong> Design, Code, or anything tech!</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Technologist%20Light%20Skin%20Tone.png" width="150" alt="Coding Boy Emoji" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="150" alt="Coding Boy Emoji" />
     </td>
   </tr>
 </table>
@@ -95,5 +95,5 @@
 <br>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=basduy05&icon=5&color=6" alt="Profile Views" /></a>
+  <a href="https://github.com/basduy05"><img src="https://komarev.com/ghpvc/?username=basduy05&label=Profile%20Views&color=0e75b6&style=flat-square" alt="basduy05 profile views" /></a>
 </div>
