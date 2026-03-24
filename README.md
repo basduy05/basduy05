@@ -83,9 +83,9 @@
 </div>
 
 <br><br> <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="140" alt="GitHub Stats" />
-  &nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=tokyonight&hide_border=true" height="140" alt="Streak Stats" />
-  &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="140" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="120" alt="GitHub Stats" />
+  &nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=tokyonight&hide_border=true" height="120" alt="Streak Stats" />
+  &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="120" alt="Top Languages" />
 </p>
 
 <br><br> <div align="center">
