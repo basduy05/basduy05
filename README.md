@@ -87,7 +87,7 @@
 <br><br> <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats" />
   &nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
-  &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages" />
+  &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="130" alt="Top Languages" />
 </p>
 
 <br><br> <div align="center">
