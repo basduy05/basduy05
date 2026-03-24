@@ -79,7 +79,7 @@
 ## 📈 GitHub Analytics
 
 <br> <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="240" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="340" alt="Dev Quote" />
 </div>
 
 <br><br> <p align="center">
@@ -93,9 +93,4 @@
     <img src="https://komarev.com/ghpvc/?username=basduy05&label=Profile%20Views&color=0e75b6&style=flat-square" alt="basduy05 profile views" />
   </a>
 </div>
-
 <br>
-
-<div align="center">
-  <a href="https://github.com/basduy05"><img src="https://komarev.com/ghpvc/?username=basduy05&label=Profile%20Views&color=0e75b6&style=flat-square" alt="basduy05 profile views" /></a>
-</div>
