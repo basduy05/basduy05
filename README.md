@@ -80,29 +80,21 @@
 
 <br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quote" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
-    </td>
-  </tr>
-</table>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="140" alt="Dev Quote" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=tokyonight&hide_border=true" height="140" alt="Streak Stats" />
+</div>
 
 <br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="140" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="140" alt="Top Languages" />
+</div>
+
+<br><br>
 
 <div align="center">
   <a href="https://github.com/basduy05">
