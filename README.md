@@ -1,20 +1,68 @@
-## Hi there 👋
--🔭 I’m currently studying at University of Transport Technology
--🌱 I’m currently learning C++ & Java
--⚡ Fun fact: update later
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20basduy05's%20CodeVerse!&fontSize=40&animation=fadeIn&fontAlignY=35" alt="Header" />
+</p>
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/basduy05) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/basduy05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/basduy05) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/basduy05) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@basduy05) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/basduy05) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/basduy05) 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31A8FF&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+basduy05!+%F0%9F%91%8B;A+Code+Crafter+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Aspiring+Developer+at+UTT+%F0%9F%8E%93;Learning+C%2B%2B+%26+Java+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=basduy05&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=basduy05&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">Let's connect and build something extraordinary! 🌱</p>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <a href="https://linkedin.com/in/basduy05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/basduy05"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://facebook.com/basduy05"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/basduy05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://youtube.com/c/basduy05"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://tiktok.com/@basduy05"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=basduy05&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🙋‍♂️ About Me
+* 🔭 **Studying:** University of Transport Technology
+* 🌱 **Learning:** [**C++**](https://isocpp.org/) & [**Java**](https://www.java.com/)
+* ⚡ **Fun fact:** *[Edit your fact here...]*
+* 💬 Ask me about: Nothing yet...
+
+---
+
+## 💻 Tech Stack
+<p>
+  <strong><img src="https://img.shields.io/badge/-Languages-31A8FF?style=for-the-badge&logo=code-factor&logoColor=white" /></strong><br>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt=".NET"/>
+</p>
+
+<p>
+  <strong><img src="https://img.shields.io/badge/-Cloud_&_DevOps-FF9A00?style=for-the-badge&logo=azure-devops&logoColor=white" /></strong><br>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+<p>
+  <strong><img src="https://img.shields.io/badge/-Design_&_Media-E4405F?style=for-the-badge&logo=adobe&logoColor=white" /></strong><br>
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white" alt="Ae" /> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white" alt="Ai" /> <img src="https://img.shields.io/badge/Adobe_InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white" alt="Id" /> <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white" alt="Lr" /> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white" alt="Ps" /> <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Pr" /> <img src="https://img.shields.io/badge/Adobe_XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6" alt="Xd" /> <img src="https://img.shields.io/badge/Adobe_Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white" alt="Au" /> <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basduy05&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=vue-dark&hide_border=true" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basduy05&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+## 💡 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=basduy05&icon=0&color=0" alt="Profile Views" /></a>
+</p>
