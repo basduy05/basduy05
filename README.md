@@ -1,4 +1,4 @@
-<div align="center">
+                <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Welcome%20to%20basduy05's%20Space!&fontSize=45&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20&%20Designer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
@@ -83,7 +83,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="140" alt="Dev Quote" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=tokyonight&hide_border=true" height="140" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basduy05&theme=tokyonight&hide_border=true" height="130" alt="Streak Stats" />
 </div>
 
 <br>
