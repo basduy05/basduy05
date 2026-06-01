@@ -27,7 +27,7 @@
         <li>🔭 <strong>Studying:</strong> University of Transport Technology</li>
         <li>🌱 <strong>Currently learning:</strong> <a href="https://isocpp.org/">C++</a> & <a href="https://www.java.com/">Java</a></li>
         <li>🎯 <strong>Goals:</strong> Master backend systems and cloud architecture</li>
-        <li>⚡ <strong>Fun fact:</strong> Dành cả thanh xuân học IT cơ mà rất thích tìm hiểu lịch sử và review nước hoa!</li>
+        <li>⚡ <strong>Fun fact:</strong> Dành cả thanh xuân học IT cơ mà rất thích tìm hiểu lịch sử và đi du lịch!</li>
         <li>💬 <strong>Ask me about:</strong> Design, Code, or anything tech!</li>
       </ul>
     </td>
