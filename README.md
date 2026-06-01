@@ -1,3 +1,4 @@
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Welcome%20to%20basduy05's%20Space!&fontSize=45&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20&%20Designer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
@@ -26,7 +27,7 @@
         <li>🔭 <strong>Studying:</strong> University of Transport Technology</li>
         <li>🌱 <strong>Currently learning:</strong> <a href="https://isocpp.org/">C++</a> & <a href="https://www.java.com/">Java</a></li>
         <li>🎯 <strong>Goals:</strong> Master backend systems and cloud architecture</li>
-        <li>⚡ <strong>Fun fact:</strong> <i>[...]</i></li>
+        <li>⚡ <strong>Fun fact:</strong> Dành cả thanh xuân học IT cơ mà rất thích tìm hiểu lịch sử và review nước hoa!</li>
         <li>💬 <strong>Ask me about:</strong> Design, Code, or anything tech!</li>
       </ul>
     </td>
@@ -88,9 +89,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&show_icons=true" height="150" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages" />
 </div>
 
 <br><br>
@@ -100,4 +101,3 @@
     <img src="https://komarev.com/ghpvc/?username=basduy05&label=Profile%20Views&color=0e75b6&style=flat-square" alt="basduy05 profile views" />
   </a>
 </div>
-<br>
