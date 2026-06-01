@@ -24,10 +24,10 @@
     <td width="65%" valign="top">
       <h2>👨‍💻 About Me</h2>
       <ul>
-        <li>🔭 <strong>Studying:</strong> University of Transport Technology</li>
-        <li>🌱 <strong>Currently learning:</strong> <a href="https://isocpp.org/">C++</a> & <a href="https://www.java.com/">Java</a></li>
+        <li>🔭 <strong>Studying:</strong> University of Transport Technology (UTT)</li>
+        <li>🌱 <strong>Currently learning:</strong> <a href="https://isocpp.org/">C++</a> & <a href="https://www.java.com/">Java</a> (Spring Boot)</li>
         <li>🎯 <strong>Goals:</strong> Master backend systems and cloud architecture</li>
-        <li>⚡ <strong>Fun fact:</strong> Dành cả thanh xuân học IT cơ mà rất thích tìm hiểu lịch sử và đi du lịch!</li>
+        <li>⚡ <strong>Fun fact:</strong> Đam mê code hệ thống lớn nhưng rất thích dẫn tour lịch sử Hà Nội và review nước hoa!</li>
         <li>💬 <strong>Ask me about:</strong> Design, Code, or anything tech!</li>
       </ul>
     </td>
@@ -89,9 +89,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&show_icons=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&show_icons=true" height="150" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages" />
 </div>
 
 <br><br>
