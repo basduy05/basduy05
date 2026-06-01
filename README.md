@@ -89,9 +89,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&show_icons=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=basduy05&theme=tokyonight&hide_border=true&show_icons=true" height="150" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=basduy05&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages" />
 </div>
 
 <br><br>
